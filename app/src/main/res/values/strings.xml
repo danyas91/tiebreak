@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TieBreak</string>
+
+    <string name="common_start_match">Start Match</string>
+
+    <string name="stop_game_dialog_title">Leave match?</string>
+    <string name="stop_game_dialog_message">The current match will be stopped. Do you want to leave?</string>
+    <string name="stop_game_dialog_stay_button_label">Stay</string>
+    <string name="stop_game_dialog_leave_button_label">Leave</string>
+
+    <string name="home_screen_header">VOLLEYBALL MATCH</string>
+    <string name="home_screen_title">Pick your team</string>
+    <string name="home_screen_attack_label">Attack</string>
+    <string name="home_screen_defense_label">Defense</string>
+    <string name="home_screen_stamina_label">Stamina</string>
+
+    <string name="match_screen_header">Match</string>
+    <string name="match_screen_title">Tie-break</string>
+    <string name="match_screen_initial_strategy_header">Select initial strategy</string>
+    <string name="match_screen_initial_strategy_label">You can change it during the match</string>
+    <string name="match_screen_current_strategy_header">Strategy</string>
+    <string name="match_screen_match_events_header">Match events</string>
+    <string name="match_screen_no_events_label">No events yet</string>
+    <string name="match_screen_point_for_label">Point for %1$s</string>
+    <string name="strategy_decision_dialog_header">Important moment!</string>
+    <string name="match_screen_fatigue_bar_header">Fatigue</string>
+    <string name="match_screen_serving_label">Serving</string>
+
+    <string name="match_finished_dialog_header">🏆 Match Finished</string>
+    <string name="match_finished_dialog_winner_label">%1$s Win!</string>
+    <string name="match_finished_dialog_play_again_button_label">Play Again</string>
+    <string name="match_finished_dialog_back_button_label">Back to Home</string>
+</resources>
